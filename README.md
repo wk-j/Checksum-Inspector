@@ -19,5 +19,5 @@ Benefits from Checksum Inspector
 
 Information:
 
-Used Framework for GUI Design: MetroFramework - Modern UI for WinForms from Sven Walter
+Used Framework for GUI Design: MetroFramework - Modern UI for WinForms from Sven Walter                  
 Used Framework to invoke Checksum Inspector over Windows Explorer: Sharp Shell from Dave Kerr
