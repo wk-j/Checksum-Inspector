@@ -15,3 +15,9 @@ Benefits from Checksum Inspector
 * Insert a checksum to check if they equal
 
 ![alt tag](https://github.com/XxDeadLiiNexX/Checksum-Inspector/blob/master/ProductPreview2.PNG)
+
+
+Information:
+
+Used Framework for GUI Design: MetroFramework - Modern UI for WinForms from Sven Walter
+Used Framework to invoke Checksum Inspector over Windows Explorer: Sharp Shell from Dave Kerr
