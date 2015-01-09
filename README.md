@@ -12,5 +12,6 @@ Benefits from Checksum Inspector
 * Start Checksum Inspector in Windows Explorer
 * Copy Checksum to Clipboard
 * Supports Md5 and Sha1
+* Insert a checksum to check if they equal
 
 ![alt tag](https://github.com/XxDeadLiiNexX/Checksum-Inspector/blob/master/ProductPreview2.PNG)
