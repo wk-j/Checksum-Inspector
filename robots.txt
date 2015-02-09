@@ -1,0 +1,3 @@
+# robots.txt for https://github.com/XxDeadLiiNexX/Checksum-Inspector/
+
+Allow: https://github.com/XxDeadLiiNexX/Checksum-Inspector/blob/master/README.md
