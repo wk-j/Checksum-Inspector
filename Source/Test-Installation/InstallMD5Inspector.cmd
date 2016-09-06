@@ -1,0 +1,1 @@
+srm.exe install Checksum-Inspector.dll -codebase

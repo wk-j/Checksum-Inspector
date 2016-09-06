@@ -1,0 +1,11 @@
+Checksum-Inspector.dll|
+Checksum-Inspector.pdb|
+MetroFramework.dll|d34e67189ec02ceb16ce276c344a798d
+MetroFramework.Fonts.dll|20d5bc809aa5bd63c45e59c0d4289fef
+MetroFramework.Design.dll|5ee7ed65a38a13f915ad4b72d7ab53ea
+SharpShell.xml|b0e86eefab431255bb91909afcd196dc
+SharpShell.pdb|f5162c0aa8e2755e941d3a8cf945a5db
+SharpShell.dll|4b5a77e127d008888d8393a0fcc537ac
+ServerManager.pdb|3aebc68d68c3aae75f9713c86ee1d560
+Apex.WinForms.dll|f2835927c0e52492af96ca17990b6f05
+srm.exe|2222543ca8c66c95bb88d1f4dc49c5eb

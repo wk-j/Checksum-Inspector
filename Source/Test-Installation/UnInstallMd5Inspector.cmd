@@ -1,0 +1,1 @@
+srm.exe uninstall Checksum-Inspector.dll -codebase
