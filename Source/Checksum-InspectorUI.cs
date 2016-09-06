@@ -28,7 +28,7 @@ namespace Checksum_Inspector
         bool Md5YesNo = true;
 
         //global variable for the current version
-        double Version = 1.1;
+        double Version = 1.2;
 
         public Checksum_InspectorUI(string FilePath)
         {
