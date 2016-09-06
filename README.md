@@ -23,3 +23,4 @@ Download the current and working version (.msi) for windows from:  https://check
 
 Used Framework for GUI Design: MetroFramework - Modern UI for WinForms from Sven Walter                  
 Used Framework to invoke Checksum Inspector over Windows Explorer: Sharp Shell from Dave Kerr
+Used Template for the internet presence: start-bootstrap-landingpage from davidtmiller
