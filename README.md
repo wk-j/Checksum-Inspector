@@ -1,12 +1,10 @@
 # Checksum-Inspector
-==============
 
 The Checksum-Inspector does a easy checksum calculation (md5 and sha1) by right click on your file. The application is integreated in windows explorer context menues for a fast usability.
 
 ![alt tag](https://github.com/XxDeadLiiNexX/Checksum-Inspector/blob/master/Images/ProductPreview.PNG)
 
 ## Benefits from Checksum-Inspector
---------------
 
 * start Checksum Inspector by right click in windows explorer
 * copy Checksum to Clipboard
@@ -18,8 +16,7 @@ The Checksum-Inspector does a easy checksum calculation (md5 and sha1) by right 
 
 ## Download
 
-Download the current and working version (.msi) for windows from:
-https://checksum-inspector.florian-ballweber.com/
+Download the current and working version (.msi) for windows from:  https://checksum-inspector.florian-ballweber.com/
 
 
 ## Licencse information:
